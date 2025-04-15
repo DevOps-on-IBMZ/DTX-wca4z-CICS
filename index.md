@@ -12,9 +12,9 @@ Thank you for attending this Developer TechXchange workshop.
 
 ## Accessing the hands-on lab
 
-Click [here](main/DevTechXchange-COBOLCICSJavaInterop-Lab.pdf) to read the instructions for IBM System access. 
+Click [here](https://github.com/DevOps-on-IBMZ/DTX-wca4z-CICS/blob/main/DTX-Lab-Connection-Instructions.pdf) to read the instructions for IBM System access. 
 
-All lab instructions are in the "Lab Docs" folder on your remote desktop, or can be downloaded from [here](main/DevTechXchange-COBOLCICSJavaInterop-Lab.pdf) to view it locally.
+All lab instructions are in the "Lab Docs" folder on your remote desktop, or can be downloaded from [here](https://github.com/DevOps-on-IBMZ/DTX-wca4z-CICS/blob/main/DevTechXchange-COBOLCICSJavaInterop-Lab.pdf) to view it locally.
 
 
 
