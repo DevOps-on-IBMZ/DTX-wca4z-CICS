@@ -22,7 +22,7 @@ All lab instructions are in the "Lab Docs" folder on your remote desktop, or can
 
 <form onsubmit="return false;">
 <div class="input-group mb-3 col-6">
-<span class="input-group-text" id="basic-addon1">@</span>
+<span class="input-group-text" id="basic-addon1">UserNumber</span>
 <input type="text" class="form-control" placeholder="User Number" aria-label="UserNumber" aria-describedby="basic-addon1" id="registration-email" maxlength="50" required oninput="validate();">
 </div>
 <div class="col-6">
