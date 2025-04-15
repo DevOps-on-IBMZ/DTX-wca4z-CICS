@@ -14,7 +14,7 @@ Thank you for attending this Developer TechXchange workshop.
 
 Click [here](main/Remote%20Lab%20System%20Connection%20Instructions.pdf) to read the instruction for IBM System access.
 
-All lab instructions are in the "Lab Docs" folder on your remote desktop, or can be downloaded from [here](https://github.com/DevOps-on-IBMZ/DTX-wca4z-CICS/blob/main/DevTechXchange-COBOLCICSJavaInterop-Lab.pdf) to view it locally.
+All lab instructions are in the "Lab Docs" folder on your remote desktop, or can be downloaded from to view it locally.
 
 
 
