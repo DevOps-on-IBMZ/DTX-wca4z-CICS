@@ -12,7 +12,7 @@ Thank you for attending this Developer TechXchange workshop.
 
 ## Accessing the hands-on lab
 
-Click [here](main/Remote%20Lab%20System%20Connection%20Instructions.pdf) to read the instructions for IBM System access.  Use your User Number instead of email address.
+Click [here](main/DevTechXchange-COBOLCICSJavaInterop-Lab.pdf) to read the instructions for IBM System access. 
 
 All lab instructions are in the "Lab Docs" folder on your remote desktop, or can be downloaded from [here](main/DevTechXchange-COBOLCICSJavaInterop-Lab.pdf) to view it locally.
 
