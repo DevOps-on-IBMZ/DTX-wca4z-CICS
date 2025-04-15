@@ -6,35 +6,31 @@
 
 ## Welcome
 
-Thank you for attending this Washington Systems Center(WSC) workshop. 
+Thank you for attending this Developer TechXchange workshop. 
 
-[//]: The WSC's z/OS Connect EE Getting Started Guide can be downloaded from [here](https://github.com/ibm-wsc/zCONNEE-Wildfire-Workshop/blob/master/zOS%20Connect%20EE%20V3%20Getting%20Started.pdf) to view it locally.
-  
-Click [here](https://github.com/ibm-wsc/zCONNEE-Wildfire-Workshop/blob/master/ZCINTRO%20-%20Introduction%20to%20zOS%20Connect%20EE.pdf) to download the presentation.
+
 
 ## Accessing the hands-on lab
 
 Click [here](main/Remote%20Lab%20System%20Connection%20Instructions.pdf) to read the instruction for IBM System access.
 
-All lab instructions are in the "Lab Docs" folder on your remote desktop, or can be downloaded from [here](https://github.com/ibm-wsc/zCONNEE-Wildfire-Workshop/tree/master/OpenAPI2) to view it locally.
-
-The server XML configuration files referenced in the exercises can be downloaded from [here](https://github.com/ibm-wsc/zCONNEE-Wildfire-Workshop/tree/master/xml) to view it locally.
+All lab instructions are in the "Lab Docs" folder on your remote desktop, or can be downloaded from [here](https://github.com/DevOps-on-IBMZ/DTX-wca4z-CICS/blob/main/DevTechXchange-COBOLCICSJavaInterop-Lab.pdf) to view it locally.
 
 
-**Please enter your email address used for registration to retrieve your unique log in details.**
+
+**Please enter the user number provided by the lab instructor.**
 
 <form onsubmit="return false;">
 <div class="input-group mb-3 col-6">
 <span class="input-group-text" id="basic-addon1">@</span>
-<input type="email" class="form-control" placeholder="Registration Email" aria-label="Email" aria-describedby="basic-addon1" id="registration-email" maxlength="50" required oninput="validate();">
+<input type="text" class="form-control" placeholder="User Number" aria-label="UserNumber" aria-describedby="basic-addon1" id="registration-email" maxlength="50" required oninput="validate();">
 </div>
 <div class="col-6">
 <button id="btn-submit" class="btn btn-primary" type="submit" onclick="getLab(document.getElementById('registration-email').value)" disabled>Submit</button>
 </div>
 </form>
 <div id="lab" class=".container .text-monospace">
-<em>Note you will need a confirmed registration to access the lab.</em>
 </div>
 
 ## Help 
-Having trouble with labs? Send an email to [Kenishia Callaway](mailto: kenishia@us.ibm.com) or [Mitch Johnson](mailto: mitchj@us.ibm.com) and we will help you sort it out.
+Having trouble with labs? Send an email to [Steve Fowlkes](mailto: fowlkes@us.ibm.com).
